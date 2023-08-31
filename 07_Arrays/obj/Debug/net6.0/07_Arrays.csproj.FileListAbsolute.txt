@@ -1,0 +1,15 @@
+C:\Users\dev00\source\repos\07_Arrays\07_Arrays\bin\Debug\net6.0\07_Arrays.exe
+C:\Users\dev00\source\repos\07_Arrays\07_Arrays\bin\Debug\net6.0\07_Arrays.deps.json
+C:\Users\dev00\source\repos\07_Arrays\07_Arrays\bin\Debug\net6.0\07_Arrays.runtimeconfig.json
+C:\Users\dev00\source\repos\07_Arrays\07_Arrays\bin\Debug\net6.0\07_Arrays.dll
+C:\Users\dev00\source\repos\07_Arrays\07_Arrays\bin\Debug\net6.0\07_Arrays.pdb
+C:\Users\dev00\source\repos\07_Arrays\07_Arrays\obj\Debug\net6.0\07_Arrays.csproj.AssemblyReference.cache
+C:\Users\dev00\source\repos\07_Arrays\07_Arrays\obj\Debug\net6.0\07_Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dev00\source\repos\07_Arrays\07_Arrays\obj\Debug\net6.0\07_Arrays.AssemblyInfoInputs.cache
+C:\Users\dev00\source\repos\07_Arrays\07_Arrays\obj\Debug\net6.0\07_Arrays.AssemblyInfo.cs
+C:\Users\dev00\source\repos\07_Arrays\07_Arrays\obj\Debug\net6.0\07_Arrays.csproj.CoreCompileInputs.cache
+C:\Users\dev00\source\repos\07_Arrays\07_Arrays\obj\Debug\net6.0\07_Arrays.dll
+C:\Users\dev00\source\repos\07_Arrays\07_Arrays\obj\Debug\net6.0\refint\07_Arrays.dll
+C:\Users\dev00\source\repos\07_Arrays\07_Arrays\obj\Debug\net6.0\07_Arrays.pdb
+C:\Users\dev00\source\repos\07_Arrays\07_Arrays\obj\Debug\net6.0\07_Arrays.genruntimeconfig.cache
+C:\Users\dev00\source\repos\07_Arrays\07_Arrays\obj\Debug\net6.0\ref\07_Arrays.dll
